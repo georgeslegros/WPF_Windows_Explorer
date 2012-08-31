@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("CustomExplorer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MCK")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("CustomExplorer")]
-[assembly: AssemblyCopyright("Copyright © MCK 2012")]
+[assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
